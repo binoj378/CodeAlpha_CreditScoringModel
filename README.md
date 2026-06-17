@@ -1,14 +1,17 @@
 Credit Scoring Model using Machine Learning
 
-Objective
+Objective:
+
 Predict whether a customer is a good or bad credit risk using machine learning.
 
-Dataset
+Dataset:
+
 German Credit Dataset
 * 1000 rows
 * 21 columns
 
-Algorithm Used
+Algorithm Used:
+
 Random Forest Classifier
 
 Tools Used
@@ -17,19 +20,22 @@ Tools Used
 * Scikit-learn
 * Google Colab
 
-Results
+Results:
+
 * Accuracy: 78.5%
 * Precision: 79.52%
 * Recall: 93.62%
 * F1 Score: 85.99%
 * ROC-AUC: 79.28%
 
-Project Workflow
+Project Workflow:
+
 1. Data Collection
 2. Data Preprocessing
 3. Feature Engineering
 4. Model Training
 5. Model Evaluation
 
-Conclusion
+Conclusion:
+
 The Random Forest model successfully predicted customer creditworthiness with good accuracy and high recall.
